@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyNhaHang_APIs", "QuanLyNhaHang_APIs\QuanLyNhaHang_APIs.csproj", "{F1AF1ACD-25D5-46DA-BBC1-1A69898AB9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AF1ACD-25D5-46DA-BBC1-1A69898AB9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AF1ACD-25D5-46DA-BBC1-1A69898AB9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AF1ACD-25D5-46DA-BBC1-1A69898AB9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AF1ACD-25D5-46DA-BBC1-1A69898AB9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE43523-02BA-4B0B-82EB-C579F7A3D5FB}
+	EndGlobalSection
+EndGlobal

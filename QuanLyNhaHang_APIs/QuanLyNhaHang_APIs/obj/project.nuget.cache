@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Aro2u2zLPGcRYMAISiJabkSoBbpQJm3QavE/EtoyVvsumMw+dP85gMJbKXKhNUqRoWHHyHl1InYOer7fG/kjg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\QuanLyNhaHang\\WebAPIs\\QuanLyNhaHang_APIs\\QuanLyNhaHang_APIs\\QuanLyNhaHang_APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
